@@ -1,6 +1,6 @@
 
 
-- 👋 Hi, I’m Benjamim Aragão
+- 👋 Hi, I’m @Benjamim-Aragao
 - 👀 I’m interested in information technology
 - 🌱 I’m on my way to be an fullstack developer
 - 💞️ I’m looking to collaborate on/with interested companies
